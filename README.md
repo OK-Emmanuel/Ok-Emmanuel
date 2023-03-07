@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="text-align: center;"># I'm Olawuni Emmanuel Kayode
-</p>
+<h1 align="center">I'm Olawuni Emmanuel Kayode</h1>
+[Connect With Me on Youtube](https://www.youtube.com/@okemmanuel/))
+
