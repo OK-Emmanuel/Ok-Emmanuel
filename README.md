@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">I'm Olawuni Emmanuel Kayode</h1>
-[Connect With Me on Youtube](https://www.youtube.com/@okemmanuel/))
+[Connect With Me on Youtube](https://www.youtube.com/@okemmanuel/)
 
