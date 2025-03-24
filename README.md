@@ -3,6 +3,7 @@
 </div>
 
 # Hey there, I'm Olawuni Emmanuel Kayode 👋
+Software Engineer | Digital Strategist | Future Global Tech Leader
 
 <div align="center">
   <a href="https://www.linkedin.com/in/olawuni-emmanuel-kayode">
@@ -28,6 +29,9 @@ I'm a full-stack developer, entrepreneur, and mentor based in Lekki, Lagos. Thro
 - 🔭 Currently leveling up my MERN stack skills (MongoDB, Express.js, React, Node.js) for cutting-edge web solutions.
 - 🌱 Worked on private repos for innovative client projects—think business tools and digital strategies.
 - ⚡ Advocate for tech education, mentoring devs, and speaking on global stages—catch me sharing insights on tech and business!
+- 🔨 Currently Building: Homifice (Hotel System),  Social Post Scheduler  
+💡 Exploring: AI + Automation, Scaling SaaS for SMEs  
+🎤 Teaching: Teens Web Design @ Enfugeos Fellowship  
 
 ---
 
@@ -89,4 +93,7 @@ Check out my thoughts on tech and more (dynamically updated from Medium):
   <img src="https://streak-stats.demolab.com?user=OK-Emmanuel&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OK-Emmanuel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Email Me](https://img.shields.io/badge/Email-okemmanuel@techifice.com-blue?style=flat&logo=gmail)](mailto:okemmanuel@techifice.com)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OK-Emmanuel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
