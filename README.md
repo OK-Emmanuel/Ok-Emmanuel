@@ -22,20 +22,20 @@ Software Engineer | Digital Strategist | Future Global Tech Leader
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a full-stack developer, entrepreneur, and mentor based in Lekki, Lagos. Through **Techifice** (https://techifice.com), I’ve collaborated with 30+ clients on successful digital projects and mentored hundreds of students to kickstart their tech journeys. I’m passionate about building products, leading teams, and inspiring the next wave of tech leaders.
 
-- 🔭 Currently leveling up my MERN stack skills (MongoDB, Express.js, React, Node.js) for cutting-edge web solutions.
-- 🌱 Worked on private repos for innovative client projects—think business tools and digital strategies.
-- ⚡ Advocate for tech education, mentoring devs, and speaking on global stages—catch me sharing insights on tech and business!
-- 🔨 Currently Building: Homifice (Hotel System),  Social Post Scheduler  
-💡 Exploring: AI + Automation, Scaling SaaS for SMEs  
-🎤 Teaching: Teens Web Design @ Enfugeos Fellowship  
+- Currently leveling up my MERN stack skills (MongoDB, Express.js, React, Node.js) for cutting-edge web solutions.
+- Worked on private repos for innovative client projects—think business tools and digital strategies.
+- Advocate for tech education, mentoring devs, and speaking on global stages—catch me sharing insights on tech and business!
+- Currently Building: Homifice (Hotel System),  Social Post Scheduler  
+- Exploring: AI + Automation, Scaling SaaS for SMEs
+- Teaching: Teens Web Design @ Enfugeos Fellowship  
 
 ---
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -62,7 +62,7 @@ Here’s a peek at some of my projects:
 - **[alx-backend](https://github.com/OK-Emmanuel/alx-backend):** Backend projects from ALX—proof of my problem-solving chops.
 - **[Fix_My_Code_Challenge](https://github.com/OK-Emmanuel/Fix_My_Code_Challenge):** Collaborative code fixes to boost quality and community learning.
 
-*(Plus, 30+ private repos for client wins—business tools, apps, and more!)*
+*(Plus, 30+ private repos for client wins—business tools, apps, and more)*
 
 ---
 
@@ -76,7 +76,7 @@ I’m all about empowering devs and leading in tech:
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 Check out my thoughts on tech and more (dynamically updated from Medium):
 
