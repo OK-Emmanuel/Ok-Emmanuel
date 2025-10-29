@@ -24,7 +24,7 @@ Software Engineer | Digital Strategist | Future Global Tech Leader
 
 ## About Me
 
-I'm a full-stack developer, entrepreneur, and mentor based in Lekki, Lagos. Through **Techifice** (https://techifice.com), I’ve collaborated with 30+ clients on successful digital projects and mentored hundreds of students to kickstart their tech journeys. I’m passionate about building products, leading teams, and inspiring the next wave of tech leaders.
+I'm a full-stack developer, entrepreneur, and digital strategist. Through **Techifice** (https://techifice.com), I’ve collaborated with 50+ clients on successful digital projects and mentored hundreds of students to kickstart their tech journeys. I’m passionate about building products, leading teams, and inspiring the next wave of tech leaders.
 
 - Currently leveling up my MERN stack skills (MongoDB, Express.js, React, Node.js) for cutting-edge web solutions.
 - Worked on private repos for innovative client projects—think business tools and digital strategies.
@@ -52,7 +52,7 @@ I'm a full-stack developer, entrepreneur, and mentor based in Lekki, Lagos. Thro
 
 ---
 
-## 🌟 Featured Repositories
+## Featured Repositories
 
 Here’s a peek at some of my projects:
 
@@ -66,7 +66,7 @@ Here’s a peek at some of my projects:
 
 ---
 
-## 🌍 Leadership and Advocacy
+## Leadership and Advocacy
 
 I’m all about empowering devs and leading in tech:
 
